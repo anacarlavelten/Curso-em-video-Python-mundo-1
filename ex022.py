@@ -1,6 +1,0 @@
-nome = str(input('Digite seu nome: ')).strip()
-print('Analizando o seu nome...')
-print(f'Seu nome em maiúsculo {nome.upper()}')
-print(f'Seu nome em minúsculo {nome.lower()}')
-print(f'Total de letras do nome completo {len(nome.replace(" ",""))}')
-print(f'Total de letras do primeiro nome {nome.find(' ')}')

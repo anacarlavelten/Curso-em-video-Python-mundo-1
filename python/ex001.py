@@ -1,0 +1,12 @@
+msg = 'Olá, mundo!'
+print(msg)
+print(msg.upper())
+print(msg.lower())
+print(msg.title())
+print(msg.capitalize())
+print(msg.swapcase())
+print(msg.replace('mundo', 'Python'))
+print(msg.find('mundo'))
+print(msg.count('mundo'))
+print(msg.len())
+print("oi")
